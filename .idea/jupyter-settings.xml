@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="C:\Users\z5379606\Anaconda3" />
+              <option name="sdkName" value="Python 3.9" />
             </JupyterConnectionParameters>
           </value>
         </entry>
